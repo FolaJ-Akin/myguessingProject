@@ -2,4 +2,4 @@
 guessing game project made with python
 
 The Lastest version of my Guessing Game will be called 'improv guessing game'. 
-Previous versions include 'hilo' and 'guessinggameplus'.
+Previous versions include 'hilo' and 'guessinggameplus'. To find relevant files open the folder 'Learning Python'.
